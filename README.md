@@ -1,2 +1,11 @@
-# SummerCamp2022
-Training content at Summer Camp VKU 2022
+# Nội dung training tại trại hè Đà Nẵng 2022 (26.6 - 29.6)
+
+### Ngày 1 (23.6): [Contest Centroid Decomposition](https://lqdoj.edu.vn/contest/b1d1)
+- [Khoảng cách k](https://lqdoj.edu.vn/problem/distancek)
+- [Kết nối các trường đại học](https://lqdoj.edu.vn/problem/conuni)
+- [Chỉ huy](https://lqdoj.edu.vn/problem/commander)
+- [Khoảng cách ngắn nhất](https://lqdoj.edu.vn/problem/mindistance)
+- [Độ dài cố định](https://lqdoj.edu.vn/problem/fixedlength)
+- [Đỉnh gần nhau](https://lqdoj.edu.vn/problem/closevertices)
+- [Dãy ngoặc](https://lqdoj.edu.vn/problem/correctbrackets)
+- [Tô màu đa giác](https://lqdoj.edu.vn/problem/polygoncoloring)
