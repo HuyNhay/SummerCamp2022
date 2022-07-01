@@ -1,7 +1,7 @@
 # Nội dung training tại trại hè Đà Nẵng 2022 (26.6 - 29.6)
 
 ### Ngày 1 (23.6): [Contest Centroid Decomposition](https://lqdoj.edu.vn/contest/b1d1)
-- [Khoảng cách k](https://lqdoj.edu.vn/problem/distancek)
+- [Khoảng cách k](https://lqdoj.edu.vn/problem/distancek) : [Solution](https://ideone.com/16hU7n)
 - [Kết nối các trường đại học](https://lqdoj.edu.vn/problem/conuni)
 - [Chỉ huy](https://lqdoj.edu.vn/problem/commander)
 - [Khoảng cách ngắn nhất](https://lqdoj.edu.vn/problem/mindistance)
